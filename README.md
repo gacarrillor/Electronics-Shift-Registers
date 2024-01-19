@@ -30,4 +30,9 @@ Note: In the video, Kevin shared and explained his great idea as well as [his co
 
 This is what I actually need for my game: One of the buttons triggers another action and is not connected to any LED, that's why the strange numbers :).
 
+Parts
+
+![image](https://github.com/gacarrillor/Electronics-Shift-Registers/assets/652785/79d1aedd-8ad9-46d6-a35e-b5ae5eebb577)
+
+
 <img src="https://github.com/gacarrillor/Electronics-Shift-Registers/assets/652785/d19776f3-6b49-4ef8-9bc6-fee696b08e89" alt="Your image title" width="500"/>
