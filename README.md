@@ -9,6 +9,7 @@ Controlling (mixing) inputs (push buttons) and outputs (LEDs) with the [74HC595 
    + [One shift register (74HC595): 4 inputs and 4 outputs](#one-shift-register-74hc595-4-inputs-and-4-outputs)
    + [Two daisy-chained shift registers (74HC595): 8 inputs and 8 outputs](#two-daisy-chained-shift-registers-74hc595-8-inputs-and-8-outputs)
    + [Three daisy-chained shift registers (74HC595): 12 inputs and 11 outputs](#three-daisy-chained-shift-registers-74hc595-12-inputs-and-11-outputs)
+ + [Results](#results)
 
 ------------------
 
@@ -23,6 +24,9 @@ Work inspired by and adapted from Kevin Darrah's video on [How to Control a Ton 
 My goal is to optimize my [Soccer Penalty Kicks Game](https://www.instructables.com/Soccer-Penalty-Kicks-Game-with-Wiring-and-Arduino/)'s control, which is currently working with 2 analog input reads based on resistors, controlling 12 push buttons, which, as mentioned by Kevin in his video, becomes problematic at the end of the day when having a number of inputs.
 
 While Kevin's work handles multiple buttons (like a piano), my control has only one active button, so in the code, as soon as I identify a button press, I exit the button inspection and only light one LED.
+
+![IMG_7026](https://github.com/gacarrillor/Electronics-Shift-Registers/assets/652785/8a241059-a350-4cc9-b9f0-6ff8b9767f86)
+
 
 ## Cases
 
@@ -47,6 +51,7 @@ This is what I actually needed for my game. One of the buttons triggers another 
 
 <img src="https://github.com/gacarrillor/Electronics-Shift-Registers/blob/main/3_shift_registers_11_outputs_12_inputs.png" alt="Schematics 3 Shift Registers" width="500"/>
 
+See the [source code](https://github.com/gacarrillor/Electronics-Shift-Registers/blob/main/shift_register_11_leds_12_buttons.ino).
 
 #### Parts
 
@@ -65,3 +70,10 @@ This is what I actually needed for my game. One of the buttons triggers another 
 https://github.com/gacarrillor/Electronics-Shift-Registers/assets/652785/1fe15331-b975-4ab1-942a-39332b134802
 
 <img src="https://github.com/gacarrillor/Electronics-Shift-Registers/assets/652785/d19776f3-6b49-4ef8-9bc6-fee696b08e89" alt="Your image title" width="500"/>
+
+## Results
+
+This is how the control looks ike after implementing Kevin's approach.
+
+https://github.com/gacarrillor/Electronics-Shift-Registers/assets/652785/59fbbcac-5293-48e1-9c76-79c388ee1b08
+
