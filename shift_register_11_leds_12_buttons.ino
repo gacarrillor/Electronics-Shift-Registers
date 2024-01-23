@@ -260,7 +260,7 @@ int getPressedButton(){
     delayMicroseconds(500);
     if(digitalRead(2) == HIGH){
         buttonIndex = index;  // We've got the button
-        break;  // Remove if you allow multiple buttons to be pressed
+        break;
     }
     shiftWrite(index, LOW, true);  // Prepare for the next iteration
   }
