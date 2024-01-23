@@ -37,12 +37,13 @@ While Kevin's work handles multiple buttons (like a piano), my control has only 
 
 ### Two daisy-chained shift registers (74HC595): 8 inputs and 8 outputs
 
+<img src="https://github.com/gacarrillor/Electronics-Shift-Registers/blob/main/2_shift_registers_8_outputs_8_inputs_bb.png" alt="Schematics 2 Shift Registers" width="500"/>
+
 <img src="https://github.com/gacarrillor/Electronics-Shift-Registers/assets/652785/c3457c34-26d9-42be-b753-b48894bb3aa0" alt="Your image title" width="500"/>
 
 <img src="https://github.com/gacarrillor/Electronics-Shift-Registers/assets/652785/8a252741-a067-402a-a59d-5de4b957d166" alt="Your image title" width="500"/>
 
 <img src="https://github.com/gacarrillor/Electronics-Shift-Registers/assets/652785/aca5a24f-033f-4e0b-aecb-f34b3cbb06f0" alt="Your image title" width="500"/>
-
 
 
 ### Three daisy-chained shift registers (74HC595): 12 inputs and 11 outputs
