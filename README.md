@@ -32,6 +32,8 @@ While Kevin's work handles multiple buttons (like a piano), my control has only 
 
 ### One shift register (74HC595): 4 inputs and 4 outputs
 
+See the [source code](https://github.com/gacarrillor/Electronics-Shift-Registers/blob/main/shift_register_4_leds_4_buttons.ino).
+
 <img src="https://github.com/gacarrillor/Electronics-Shift-Registers/assets/652785/c522826b-fd48-4948-9b5e-9921347384a8" alt="Your image title" width="500"/>
 
 
