@@ -41,6 +41,8 @@ See the [source code](https://github.com/gacarrillor/Electronics-Shift-Registers
 
 <img src="https://github.com/gacarrillor/Electronics-Shift-Registers/blob/main/2_shift_registers_8_outputs_8_inputs_bb.png" alt="Schematics 2 Shift Registers" width="500"/>
 
+See the [source code](https://github.com/gacarrillor/Electronics-Shift-Registers/blob/main/shift_register_8_leds_8_buttons.ino).
+
 <img src="https://github.com/gacarrillor/Electronics-Shift-Registers/assets/652785/c3457c34-26d9-42be-b753-b48894bb3aa0" alt="Your image title" width="500"/>
 
 <img src="https://github.com/gacarrillor/Electronics-Shift-Registers/assets/652785/8a252741-a067-402a-a59d-5de4b957d166" alt="Your image title" width="500"/>
