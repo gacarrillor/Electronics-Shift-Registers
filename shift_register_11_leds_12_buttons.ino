@@ -258,7 +258,7 @@ int getPressedButton(){
   for(int index : buttonPins){
     shiftWrite(index, HIGH, true);
     delayMicroseconds(500);
-    if(digitalRead(2) == HIGH){
+    if(digitalRead(inputpin) == HIGH){
         buttonIndex = index;  // We've got the button
         break;
     }
