@@ -17,7 +17,8 @@ Controlling (mixing) inputs (push buttons) and outputs (LEDs) with the [74HC595 
 
 Work inspired by and adapted from Kevin Darrah's video on [How to Control a Ton of Inputs using Shift Registers!](https://www.youtube.com/watch?v=nXl4fb_LbcI). Note: In the video, Kevin shared and explained his great idea as well as [his code](https://www.kevindarrah.com/download/arduino_code/ShiftRegisterInput.ino). However, schematics/diagrams are missing, what makes the process a bit difficult to follow. In case you're wondering, this image describes the main idea:
 
-<img src="https://github.com/gacarrillor/Electronics-Shift-Registers/assets/652785/9ae2538f-0210-444e-b8b4-14f11b8adcb0" alt="Your image title" width="400"/>
+<img src="https://github.com/gacarrillor/Electronics-Shift-Registers/assets/652785/159013bf-5718-49db-89ee-10fb72cf414b" alt="Your image title" width="400"/>
+
 
 ## Main goal
 
