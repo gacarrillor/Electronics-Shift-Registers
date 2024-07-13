@@ -46,11 +46,11 @@ See the [source code](https://github.com/gacarrillor/Electronics-Shift-Registers
 
 See the [source code](https://github.com/gacarrillor/Electronics-Shift-Registers/blob/main/shift_register_8_leds_8_buttons.ino).
 
-<img src="https://github.com/gacarrillor/Electronics-Shift-Registers/assets/652785/c3457c34-26d9-42be-b753-b48894bb3aa0" alt="Your image title" width="500"/>
-
-<img src="https://github.com/gacarrillor/Electronics-Shift-Registers/assets/652785/8a252741-a067-402a-a59d-5de4b957d166" alt="Your image title" width="500"/>
-
-<img src="https://github.com/gacarrillor/Electronics-Shift-Registers/assets/652785/aca5a24f-033f-4e0b-aecb-f34b3cbb06f0" alt="Your image title" width="500"/>
+<img src="https://github.com/user-attachments/assets/f8d3f8f6-2f1a-4ad5-abc4-a8489820ef96" alt="Your image title" width="500"/>
+<br/>
+<img src="https://github.com/user-attachments/assets/21f6578d-9302-4005-8558-340caae68139" alt="Your image title" width="500"/>
+<br/>
+<img src="https://github.com/user-attachments/assets/b42799af-e4c5-4f22-ab64-989c1095225f" alt="Your image title" width="500"/>
 
 
 ### Three daisy-chained shift registers (74HC595): 12 inputs and 11 outputs
